@@ -1,1 +1,1 @@
-# unipaw
+# pawwalk-university
